@@ -2,6 +2,6 @@
 
 Angular
 
-Aluno: Jefferson Ponte Pessoa
-Curso: Desenvolvimento Full Stack [Estacio]
-Matricula: 202208291228
+* Aluno: Jefferson Ponte Pessoa
+* Curso: Desenvolvimento Full Stack [Estacio]
+* Matricula: 202208291228
